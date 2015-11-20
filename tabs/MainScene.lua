@@ -14,8 +14,8 @@ local healthPointsButton
 
 function MainScene:init()
 
-    topScoreButton = Button("iOS Button Pack:Red Back Circle Button", vec2(WIDTH/2, HEIGHT/2))
-    healthPointsButton = Button("iOS Button Pack:Green Back Circle Button", vec2(WIDTH/2, HEIGHT/2-200))
+    topScoreButton = Button("Dropbox:Red Back Circle Button", vec2(WIDTH/2, HEIGHT/2))
+    healthPointsButton = Button("Dropbox:Green Back Circle Button", vec2(WIDTH/2, HEIGHT/2-200))
     
 end
 
